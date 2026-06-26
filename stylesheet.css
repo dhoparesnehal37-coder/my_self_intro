@@ -1,0 +1,35 @@
+.para{
+    font-size:50px;
+    font-family: 'Gevena' Verdana, sans-serif;
+    text-align: center;
+    text-align: center;
+}
+div{
+   text-align: center;
+   margin: 15px;          
+}
+.card{
+    border: 2px solid rgb(226, 43, 104);
+    color: rgb(210, 127, 255);
+    padding:50px;
+    text-align: center;
+    margin: 70px;
+
+}
+.container{
+    color: black;
+    display:flex;
+    justify-content:center;
+    justify-content:space-around;
+    align-items: center;
+}
+.bar{
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    background-color: brown;
+}
+.bar a{
+    color: chartreuse;
+
+}
