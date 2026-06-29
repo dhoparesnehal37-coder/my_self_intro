@@ -1,6 +1,6 @@
 *{
-    margin: 0;
-    padding: 2px;
+    margin: 0px;
+    padding: 2pxpx;
     box-sizing: border-box;
     font-family: 'segoe UI' sans-serif;
 }
@@ -17,8 +17,6 @@ body{
     border: 3px  solid salmon;
     border-radius: 12px;
     overflow: hidden;
-    box-shadow: 0 4px greenyellow(0,0,0,0.15);
-
 }
 .title{
     background-color: rgb(134, 23, 24);
@@ -35,7 +33,7 @@ body{
 .photo{
     width: 120px;
     height: 150px;
-    abjact-fit = cover;
+    abjact-fit: cover;
     border-radius: 8px;
 }
 .info h2.name{

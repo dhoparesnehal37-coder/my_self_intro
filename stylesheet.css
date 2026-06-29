@@ -31,5 +31,39 @@ div{
 }
 .bar a{
     color: chartreuse;
+    text-decoration: none;
 
+}
+.box{
+    display:  inline-block;
+
+    width: 120px;
+
+    height: 120px;
+    background: skyblue;
+    margin: 10px;
+    border: 2px solid rgb(54, 139, 46);
+    border-radius: 20px;
+    box-shadow: 5px  5px 10px gold;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}
+.img{
+    display:flexs ;
+    height: 20px;
+    width: 20px;
+    im
+
+}
+img:hover{
+    border-radius: 80px;
+    scr
+}
+.box:hover{
+    background: plum;
+    box-shadow:  10px 10px 25px greenyellow;
+    border
 }
