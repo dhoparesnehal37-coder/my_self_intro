@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: Arial, sans-serif;
-    border-radius: 2px;
+    border-radius: 2px; # gives all elements sliightly rounded corners
 }
 body{
     background:wheat;

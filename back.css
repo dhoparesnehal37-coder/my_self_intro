@@ -1,40 +1,40 @@
 *{
     margin: 0px;
     padding: 2pxpx;
-    box-sizing: border-box;
-    font-family: 'segoe UI' sans-serif;
+    box-sizing: border-box; 
+    font-family: 'arial' sans-serif; 
 }
 body{
     background-color: antiquewhite;
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    min-height: 100vh; 
 }
 .card{
     width: 340px;
     background: rgb(190, 134, 60);
     border: 3px  solid salmon;
-    border-radius: 12px;
-    overflow: hidden;
+    border-radius: 12px; round the card corner
+    overflow:hidden;
 }
 .title{
     background-color: rgb(134, 23, 24);
     text-align: center;
     padding: 12px;
-    font-size: 24px;
+    font-size: 24px;# 
     font-weight: bold;
 }
 .content{
     display: flex;
     padding: 20px;
-    gap: 15px;
+    gap: 15px; #creating gap
 }
 .photo{
     width: 120px;
     height: 150px;
-    abjact-fit: cover;
-    border-radius: 8px;
+    objact-fit: cover;
+    border-radius: 8px; /gives all elements sighly rounded corners
 }
 .info h2.name{
     color: azure;
